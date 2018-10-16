@@ -1,1 +1,2 @@
 # gotraining
+ready to go
